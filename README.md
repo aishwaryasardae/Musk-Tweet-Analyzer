@@ -36,36 +36,4 @@ __COLUMN DESCRIPTION:__
 
 `id: ID of tweet`.
 conversation_id:: ID of twitter conversation/thread.
-created_at: Unknown, some kind of time/location index from twitter. (?)
-`date: Date of Creation`.
-timezone: Timezone.
-place: Location.
-`tweet: Contents of tweet, tweet body.`
-`language: Language of tweet.`
-hashtags: Hashtags in the tweet "#".
-cashtags: Cashtags in the tweet "$", often used for stock tweets.
-`user_id: ID of the tweet/reply author.`
-`user_id_str: User ID but in string format.`
-`username: Username of the tweet/reply author.`
- name: Name of tweet/reply author.
-day: Day of the week in which the tweet was published.
-hour: Hour of the day in which the tweet was published.
-link: Link to the tweet.
-urls: Urls present in the tweet.
-photos: Photos in the tweet (as links).
-video: videos in the tweet (Yes/No).
-thumbnail: Thumbnail for the image present in the tweet (if applicable, otherwise null).
-`retweet: Is this a retweet? (Yes/No).`
-        nlikes: Number of likes on the tweet.
-nreplies: Number of replies to the tweet.
-nretweets: Number of times the tweet was retweeted.
-quote_url: Url of quoted tweet, if applicable.
-search: Unknown.
-near: Additional location info, null.
-geo: Additional location info, null.
-source: Unknown, null.
-user_rt_id: Possibly the id of the tweet author if it's a retweet, null.
-user_rt: Possibly the username of the tweet author if it's a retweet, null.
-retweet_id: Id of the retweet, null.
-reply_to: Info about the original tweet if this datapoint is a reply.
-retweet_date: Date of retweet, null.
+
