@@ -34,7 +34,8 @@ Elon Musk Tweets (2010 - 2021) All Elon Musk Twitter Tweets, from 2010 to March 
 
 __COLUMN DESCRIPTION:__
 
-id: ID of tweet
+id: ID of tweet  
+
 conversation_id:: ID of twitter conversation/thread.
 date: Date of Creation
 timezone: Timezone
