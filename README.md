@@ -35,19 +35,12 @@ Elon Musk Tweets (2010 - 2021) All Elon Musk Twitter Tweets, from 2010 to March 
 __COLUMN DESCRIPTION:__
 
 `id: ID of tweet`.
-
 conversation_id:: ID of twitter conversation/thread.
-
-created_at: Unknown, some kind of time/location index from twitter. 
-
+created_at: Unknown, some kind of time/location index from twitter. (?)
 `date: Date of Creation`.
-
 timezone: Timezone.
-
 place: Location.
-
 `tweet: Contents of tweet, tweet body.`
-
 `language: Language of tweet.`
 hashtags: Hashtags in the tweet "#".
 cashtags: Cashtags in the tweet "$", often used for stock tweets.
@@ -63,7 +56,7 @@ photos: Photos in the tweet (as links).
 video: videos in the tweet (Yes/No).
 thumbnail: Thumbnail for the image present in the tweet (if applicable, otherwise null).
 `retweet: Is this a retweet? (Yes/No).`
- nlikes: Number of likes on the tweet.
+        nlikes: Number of likes on the tweet.
 nreplies: Number of replies to the tweet.
 nretweets: Number of times the tweet was retweeted.
 quote_url: Url of quoted tweet, if applicable.
